@@ -1,0 +1,16 @@
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\EntityFramework.dll
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\EntityFramework.xml
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Max\source\repos\TestProject\TestProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Max\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
